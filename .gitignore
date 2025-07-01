@@ -1,3 +1,3 @@
 myvirtualenv
 __pycache__
-db.sqlite3
+mentalweb/db.sqlite3
